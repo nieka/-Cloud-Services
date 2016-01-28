@@ -1,0 +1,21 @@
+<!--------Brons--------!>
+1. Hello world
+2. console.log('Hello world');
+3. Nee
+
+1. Node Program.js Week1(Directory name) .js(file extentie)
+2. Die laat de file fs van nodeJS in zodat die functies gebruikt kunnnen worden
+3. De directory name
+4. De respone van de methode readdir word aan de function gegeven die als tweede parameter gegeven is. Of is ook wel de callback functie van de methode readdir
+5. Callback functie
+
+<!--------Zilver--------!>
+1.Geeft aan dat de website niet bestaat. Dit omdat de sver draait op poort 8080 en niet op 8081
+2.Nee
+3.Ja
+4.Sluit het process af
+5.Je krigjt te zien dat de webpagina niet beschikbaar is. Dit is omdat de server offline is.
+
+<!--------Goud--------!>
+1. Ja, dit omdat de node module die required was nu geinstallerd in je project directory staat en die nu dus gevonden kan worden
+2. Week1, je project directory
